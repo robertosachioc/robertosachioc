@@ -3,7 +3,7 @@
 <!-- ===================== HERO ===================== -->
 <div align="center">
   
-### 📈 Economics · 💼 Business & Finance · 🔍 Market Research
+### Business & Finance · Market Research · Product
 
 **B.S. Agricultural Economics @ National Taiwan University
 
@@ -24,14 +24,15 @@
 <!-- ===================== ABOUT ===================== -->
 ## 💭 About Me
 
-I'm curious about how the economy actually works — from **U.S. semiconductor policy** to **consumer credit**, from **currency crises** to **how a supermarket chain adopts AI**.
+### *Curiosity is my driving force.*
+I love questions about **money, markets, and business**, I chase down every question I have until I find the answer. 
 
-My experience so far spans three worlds:
+My experience so far spans:
 - 🔬 **Research** — RA at NTU Structural Economics Lab, working with 15M+ administrative labor records
 - 📱 **Product** — QA for PicCollage, an app with 10M+ active users
 - 📣 **Growth** — building social channels past 100K+ views across YouTube, TikTok, and LinkedIn
 
-🎯 **Open to internships in finance, research & product.**
+🎯 **Open to internships in finance, research, & product.**
 
 <br/>
 
@@ -41,7 +42,7 @@ My experience so far spans three worlds:
 | Project | What it is |
 |---|---|
 | 💳 **[BNPL: Smoothing or Debt Trap?](https://robertosachioc.github.io/#projects)** | Research proposal on the welfare effects of Buy Now, Pay Later credit in the US |
-| 🤖 **[Valuing GenAI Innovation: OpenAI](https://robertosachioc.github.io/#projects)** | Led a team valuation of OpenAI — platform stretching & future valuation |
+| 🤖 **[Valuing GenAI Innovation: OpenAI](https://robertosachioc.github.io/#projects)** | Led a team valuation of OpenAI for platform stretching & future valuation |
 | 🏪 **[AI Adoption Strategy: PX Mart](https://robertosachioc.github.io/#projects)** | Company-level AI strategy for Taiwan's largest supermarket chain |
 | 💰 **[KOIN — Smarter Money Habits](https://robertosachioc.github.io/#projects)** | Fintech pitch: concept, market sizing, and business model |
 | 🇮🇩 **[Why the Rupiah Keeps Hitting Record Lows](https://robertosachioc.github.io/#writing)** | Macro brief on Indonesia's currency, Bank Indonesia, and fiscal credibility |
@@ -55,7 +56,7 @@ My experience so far spans three worlds:
 
 <img src="https://img.shields.io/badge/Excel-3F6F9E?style=flat-square&labelColor=132339" /> <img src="https://img.shields.io/badge/Tableau-3F6F9E?style=flat-square&labelColor=132339" /> <img src="https://img.shields.io/badge/Stata-3F6F9E?style=flat-square&labelColor=132339" /> <img src="https://img.shields.io/badge/PowerPoint-3F6F9E?style=flat-square&labelColor=132339" /> <img src="https://img.shields.io/badge/WordPress-3F6F9E?style=flat-square&labelColor=132339" /> <img src="https://img.shields.io/badge/Canva-3F6F9E?style=flat-square&labelColor=132339" />
 
-**Languages** — English (fluent) · Indonesian (native) · Mandarin (conversational)
+**Languages** : English (fluent) · Indonesian (native) · Mandarin (conversational)
 
 <br/>
 
@@ -66,5 +67,5 @@ The best way to see my work is my **[portfolio](https://robertosachioc.github.io
 For anything else: **[LinkedIn](https://linkedin.com/in/robertosachio/)** or **robertosc1178@gmail.com** — I reply fast. ⚡
 
 <div align="center">
-<sub>© 2026 Roberto Sachio Cendikiawan · Built with curiosity in Taipei</sub>
+<sub>© 2026 Roberto Sachio Cendikiawan </sub>
 </div>
