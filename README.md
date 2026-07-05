@@ -5,8 +5,7 @@
   
 ### 📈 Economics · 💼 Business & Finance · 🔍 Market Research
 
-**B.S. Agricultural Economics @ National Taiwan University** — GPA 4.08/4.30
-Indonesian, based in Taipei 🇮🇩🇹🇼
+**B.S. Agricultural Economics @ National Taiwan University
 
 <br/>
 
