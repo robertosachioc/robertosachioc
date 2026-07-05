@@ -43,7 +43,7 @@ My experience so far spans:
 | 💳 **[BNPL: Smoothing or Debt Trap?](https://robertosachioc.github.io/#projects)** | Research proposal on the welfare effects of Buy Now, Pay Later credit in the US |
 | 🤖 **[Valuing GenAI Innovation: OpenAI](https://robertosachioc.github.io/#projects)** | Led a team valuation of OpenAI for platform stretching & future valuation |
 | 🏪 **[AI Adoption Strategy: PX Mart](https://robertosachioc.github.io/#projects)** | Company-level AI strategy for Taiwan's largest supermarket chain |
-| 💰 **[KOIN — Smarter Money Habits](https://robertosachioc.github.io/#projects)** | Fintech pitch: concept, market sizing, and business model |
+| 💰 **[KOIN (Smarter Money Habits)](https://robertosachioc.github.io/#projects)** | Fintech pitch: concept, market sizing, and business model |
 | 🇮🇩 **[Why the Rupiah Keeps Hitting Record Lows](https://robertosachioc.github.io/#writing)** | Macro brief on Indonesia's currency, Bank Indonesia, and fiscal credibility |
 
 <br/>
@@ -51,7 +51,7 @@ My experience so far spans:
 <!-- ===================== SKILLS ===================== -->
 ## 🛠 What I Work With
 
-**Core** — Financial Modeling · Market Research · Data Analysis · Product QA
+**Core** : Financial Modeling · Market Research · Data Analysis · Product QA
 
 <img src="https://img.shields.io/badge/Excel-3F6F9E?style=flat-square&labelColor=132339" /> <img src="https://img.shields.io/badge/Tableau-3F6F9E?style=flat-square&labelColor=132339" /> <img src="https://img.shields.io/badge/Stata-3F6F9E?style=flat-square&labelColor=132339" /> <img src="https://img.shields.io/badge/PowerPoint-3F6F9E?style=flat-square&labelColor=132339" /> <img src="https://img.shields.io/badge/WordPress-3F6F9E?style=flat-square&labelColor=132339" /> <img src="https://img.shields.io/badge/Canva-3F6F9E?style=flat-square&labelColor=132339" />
 
