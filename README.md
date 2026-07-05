@@ -63,7 +63,7 @@ My experience so far spans:
 ## 🤝 Let's Connect
 
 The best way to see my work is my **[portfolio](https://robertosachioc.github.io)** — projects, essays, and the full story.
-For anything else, connect me on **[LinkedIn](https://linkedin.com/in/robertosachio/)** or contact **robertosc1178@gmail.com** 
+For anything else, connect with me on **[LinkedIn](https://linkedin.com/in/robertosachio/)** or email me at **robertosc1178@gmail.com** 
 
 <div align="center">
 <sub>© 2026 Roberto Sachio Cendikiawan </sub>
