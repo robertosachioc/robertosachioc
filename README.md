@@ -13,8 +13,7 @@ B.S. Agricultural Economics @ National Taiwan University
 <a href="https://linkedin.com/in/robertosachio/"><img src="https://img.shields.io/badge/LinkedIn-3F6F9E?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=132339&color=3F6F9E" /></a>
 <a href="mailto:robertosc1178@gmail.com"><img src="https://img.shields.io/badge/Email-3F6F9E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=132339&color=3F6F9E" /></a>
 
-<br/><br/>
-
+<br/>
 > *"I study markets, money & how businesses really work."*
 
 </div>
@@ -64,7 +63,7 @@ My experience so far spans:
 ## 🤝 Let's Connect
 
 The best way to see my work is my **[portfolio](https://robertosachioc.github.io)** — projects, essays, and the full story.
-For anything else: **[LinkedIn](https://linkedin.com/in/robertosachio/)** or **robertosc1178@gmail.com** — I reply fast. ⚡
+For anything else, connect me on **[LinkedIn](https://linkedin.com/in/robertosachio/)** or contact **robertosc1178@gmail.com** 
 
 <div align="center">
 <sub>© 2026 Roberto Sachio Cendikiawan </sub>
