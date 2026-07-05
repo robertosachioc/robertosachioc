@@ -24,7 +24,7 @@ B.S. Agricultural Economics @ National Taiwan University
 ## 💭 About Me
 
 ### *Curiosity is my driving force.*
-I love questions about **money, markets, and business**, I chase down every question I have until I find the answer. 
+I chase down every question I have until I find the answer. 
 
 My experience so far spans:
 - 🔬 **Research** — RA at NTU Structural Economics Lab, working with 15M+ administrative labor records
