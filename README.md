@@ -31,7 +31,7 @@ My experience so far spans:
 - 📱 **Product** — QA for PicCollage, an app with 10M+ active users
 - 📣 **Growth** — building social channels past 100K+ views across YouTube, TikTok, and LinkedIn
 
-🎯 **Open to internships in finance, research, & product.**
+**Open to internships in finance, business, & product.**
 
 <br/>
 
