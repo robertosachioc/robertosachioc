@@ -5,7 +5,7 @@
   
 ### Business & Finance · Market Research · Product
 
-**B.S. Agricultural Economics @ National Taiwan University
+B.S. Agricultural Economics @ National Taiwan University
 
 <br/>
 
