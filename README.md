@@ -14,7 +14,7 @@ B.S. Agricultural Economics @ National Taiwan University
 <a href="mailto:robertosc1178@gmail.com"><img src="https://img.shields.io/badge/Email-3F6F9E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=132339&color=3F6F9E" /></a>
 
 <br/>
-> *"I study markets, money & how businesses really work."*
+*"I study markets, money & how businesses really work."*
 
 </div>
 
